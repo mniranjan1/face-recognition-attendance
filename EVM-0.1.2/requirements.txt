@@ -1,0 +1,4 @@
+libmr>=0.1.8
+h5py
+scipy
+scikit-learn
