@@ -1,0 +1,13 @@
+torch
+torchvision
+opencv-contrib-python
+numpy==1.24.4
+matplotlib
+imutils
+pandas
+openpyxl
+pygame
+facenet-pytorch
+mediapipe
+pillow
+cython
