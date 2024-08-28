@@ -1,0 +1,20 @@
+{
+    "version": "0.2",
+    "ignorePaths": [],
+    "dictionaryDefinitions": [],
+    "dictionaries": [],
+    "words": [],
+    "ignoreWords": [
+        "DBAPI",
+        "asyncpg",
+        "autoflush",
+        "codespell",
+        "fastapi",
+        "poolclass",
+        "pydantic",
+        "sessionmaker",
+        "sqlalchemy",
+        "venv"
+    ],
+    "import": []
+}
