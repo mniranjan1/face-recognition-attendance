@@ -46,3 +46,4 @@ This project requires several Python packages, which are listed in the `requirem
     python capture.py
     ```
     Follow the instructions in the window appeared after running it.
+ss
